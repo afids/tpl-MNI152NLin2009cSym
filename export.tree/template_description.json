@@ -1,0 +1,29 @@
+{
+  "Authors": ["Fonov V", "Evans AC", "Botteron K", "Almli CR", "McKinstry RC", "Collins DL"],
+  "Acknowledgements": "Curated and added to TemplateFlow by Fonov V, and Esteban O",
+  "BIDSVersion": "1.1.0",
+  "HowToAcknowledge": "Reference the following entries from the ReferencesAndLinks field: {1, 2}",
+  "Identifier": "MNI152NLin2009cSym",
+  "License": "See LICENSE file",
+  "Name": "ICBM 152 Nonlinear Symmetrical template version 2009c",
+  "RRID": "SCR_008796",
+  "ReferencesAndLinks": {
+    "1": "https://doi.org/10.1016/j.neuroimage.2010.07.033",
+    "2": "https://doi.org/10.1016/S1053-8119(09)70884-5",
+    "3": "http://nist.mni.mcgill.ca/?p=904",
+    "4": "https://doi.org/10.1007/3-540-48714-X_16"
+  },
+  "TemplateFlowVersion": "1.0.0",
+  "res": {
+    "1": {
+      "origin": [-96.0, -132.0, -78.0],
+      "shape": [193, 229, 193],
+      "zooms": [1.0, 1.0, 1.0]
+    },
+    "iso4mm": {
+      "origin": [-93.2, 14.926, -167.088],
+      "shape": [46, 32, 59],
+      "zooms": [4.0, 4.0, 4.0]
+    }
+  }
+}
